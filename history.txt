@@ -1,6 +1,6 @@
-# Create the project
+# Create the project -mkdir or vscode folder creation
 
-# Initialize the repository
+# Initialize the repository -git init
 
 # Track my files -git status
 
@@ -11,3 +11,11 @@
 # Add the remote orgin -git remote add orgin {url}
 
 # Push the changes -git push - u orgin master 
+
+# Track my files
+
+# Add files 
+
+# Commit those files 
+
+# Push the changes
