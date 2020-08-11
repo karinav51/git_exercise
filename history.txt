@@ -1,0 +1,13 @@
+# Create the project
+
+# Initialize the repository
+
+# Track my files -git status
+
+# Add your files -git add {file}
+
+# Commit those files -git commit -m "message"
+
+# Add the remote orgin -git remote add orgin {url}
+
+# Push the changes -git push - u orgin master 
